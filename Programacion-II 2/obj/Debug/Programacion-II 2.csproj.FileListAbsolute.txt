@@ -1,0 +1,10 @@
+E:\AAAAA\CLASES\Programacion-II\Programacion-II 2\bin\Debug\Programacion-II 2.exe.config
+E:\AAAAA\CLASES\Programacion-II\Programacion-II 2\bin\Debug\Programacion-II 2.exe
+E:\AAAAA\CLASES\Programacion-II\Programacion-II 2\bin\Debug\Programacion-II 2.pdb
+E:\AAAAA\CLASES\Programacion-II\Programacion-II 2\obj\Debug\Programacion-II 2.csproj.AssemblyReference.cache
+E:\AAAAA\CLASES\Programacion-II\Programacion-II 2\obj\Debug\Programacion_II_2.Form1.resources
+E:\AAAAA\CLASES\Programacion-II\Programacion-II 2\obj\Debug\Programacion_II_2.Properties.Resources.resources
+E:\AAAAA\CLASES\Programacion-II\Programacion-II 2\obj\Debug\Programacion-II 2.csproj.GenerateResource.cache
+E:\AAAAA\CLASES\Programacion-II\Programacion-II 2\obj\Debug\Programacion-II 2.csproj.CoreCompileInputs.cache
+E:\AAAAA\CLASES\Programacion-II\Programacion-II 2\obj\Debug\Programacion-II 2.exe
+E:\AAAAA\CLASES\Programacion-II\Programacion-II 2\obj\Debug\Programacion-II 2.pdb
