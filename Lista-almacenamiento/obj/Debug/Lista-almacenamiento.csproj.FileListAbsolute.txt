@@ -1,0 +1,10 @@
+E:\AAAAAA\Programacion-II\App-Escritorio-03\Lista-almacenamiento\bin\Debug\Lista-almacenamiento.exe.config
+E:\AAAAAA\Programacion-II\App-Escritorio-03\Lista-almacenamiento\bin\Debug\Lista-almacenamiento.exe
+E:\AAAAAA\Programacion-II\App-Escritorio-03\Lista-almacenamiento\bin\Debug\Lista-almacenamiento.pdb
+E:\AAAAAA\Programacion-II\App-Escritorio-03\Lista-almacenamiento\obj\Debug\Lista-almacenamiento.csproj.AssemblyReference.cache
+E:\AAAAAA\Programacion-II\App-Escritorio-03\Lista-almacenamiento\obj\Debug\Lista_almacenamiento.Form1.resources
+E:\AAAAAA\Programacion-II\App-Escritorio-03\Lista-almacenamiento\obj\Debug\Lista_almacenamiento.Properties.Resources.resources
+E:\AAAAAA\Programacion-II\App-Escritorio-03\Lista-almacenamiento\obj\Debug\Lista-almacenamiento.csproj.GenerateResource.cache
+E:\AAAAAA\Programacion-II\App-Escritorio-03\Lista-almacenamiento\obj\Debug\Lista-almacenamiento.csproj.CoreCompileInputs.cache
+E:\AAAAAA\Programacion-II\App-Escritorio-03\Lista-almacenamiento\obj\Debug\Lista-almacenamiento.exe
+E:\AAAAAA\Programacion-II\App-Escritorio-03\Lista-almacenamiento\obj\Debug\Lista-almacenamiento.pdb
